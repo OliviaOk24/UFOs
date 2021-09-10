@@ -13,7 +13,7 @@ The website works by allowing the user filter the different UFO Sightings data b
 ![image](https://user-images.githubusercontent.com/85662949/132919039-b5de5d90-4333-4086-8947-0e53c0169aad.png)
 
 
-Sumamry 
+Summary 
 
 One drawback of this new design is that users might not know what cities or states to search for specific sightings. A dropdown menu with availble options will be useful  (this reecommendation added below). 
 
